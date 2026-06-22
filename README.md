@@ -52,3 +52,14 @@ If you want to test any of the SQL exercises locally:
 1. Install SQLite (if not already installed)
    ```bash
    sudo apt install sqlite3
+
+2. Open a database file:
+   ```bash
+   sqlite3 filename.db
+
+3. Run a SQL file:
+   ```bash
+   .read query.sql
+
+## 📌 Notes
+This repository is part of my continuous learning path towards Cloud & Data Engineering, strengthening my understanding of how data is structured and queried at scale.
