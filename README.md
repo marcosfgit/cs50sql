@@ -37,12 +37,13 @@ Beyond writing queries, the goal is to develop strong **data modeling thinking**
 
 | Week | Topic | Status | Key Exercises |
 | :--- | :--- | :---: | :--- |
-| **0** | Introduction to Databases | ⏳ In Progress | `favorites.sql`, `shows.sql` |
-| **1** | Querying Data | ⏳ Upcoming | TBD |
-| **2** | Relational Design | ⏳ Upcoming | TBD |
-| **3** | Writing Complex Queries | ⏳ Upcoming | TBD |
-| **4** | Indexes & Optimization | ⏳ Upcoming | TBD |
-| **5** | Final Project | ⏳ Upcoming | TBD |
+| **0** | Querying | ✅ Done | `cyberchase.db`, `views.db`, `players.db` |
+| **1** | Relating | ⏳ Upcoming | TBD |
+| **2** | Designing | ⏳ Upcoming | TBD |
+| **3** | Writing | ⏳ Upcoming | TBD |
+| **4** | Viewing | ⏳ Upcoming | TBD |
+| **5** | Optimizing | ⏳ Upcoming | TBD |
+| **6** | Scaling | ⏳ Upcoming | TBD |
 
 ---
 
