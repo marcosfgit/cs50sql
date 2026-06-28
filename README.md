@@ -38,7 +38,7 @@ Beyond writing queries, the goal is to develop strong **data modeling thinking**
 | Week | Topic | Status | Key Exercises |
 | :--- | :--- | :---: | :--- |
 | **0** | Querying | ✅ Done | `cyberchase.db`, `views.db`, `players.db` |
-| **1** | Relating | ⏳ Upcoming | TBD |
+| **1** | Relating | ✅ Done | `packages.db`, `dese.db`, `moneyball.db` |
 | **2** | Designing | ⏳ Upcoming | TBD |
 | **3** | Writing | ⏳ Upcoming | TBD |
 | **4** | Viewing | ⏳ Upcoming | TBD |
