@@ -40,7 +40,7 @@ Beyond writing queries, the goal is to develop strong **data modeling thinking**
 | **0** | Querying | ✅ Done | `cyberchase.db`, `views.db`, `players.db` |
 | **1** | Relating | ✅ Done | `packages.db`, `dese.db`, `moneyball.db` |
 | **2** | Designing | ✅ Done | `atl.db`, `connect.db`, `donuts.db` |
-| **3** | Writing | ⏳ Upcoming | TBD |
+| **3** | Writing | ✅ Done | `dont-panic.db`, `meteorites.db` |
 | **4** | Viewing | ⏳ Upcoming | TBD |
 | **5** | Optimizing | ⏳ Upcoming | TBD |
 | **6** | Scaling | ⏳ Upcoming | TBD |
