@@ -23,13 +23,20 @@ Beyond writing queries, the goal is to develop strong **data modeling thinking**
 ---
 
 ## 🧠 Key Concepts Covered
-* Relational Databases (SQLite)
-* CRUD Operations (Create, Read, Update, Delete)
-* Joins (INNER, LEFT, etc.)
-* Aggregations and Grouping
-* Subqueries and Nested Logic
-* Indexing and Query Efficiency
-* Database Normalization Principles
+* **Relational Databases & SQL Dialects:** Hands-on experience with SQLite, MySQL, and PostgreSQL.
+* **CRUD Operations & Data Manipulation:** Writing robust `INSERT`, `UPDATE`, and `DELETE` queries, including table alterations and soft deletions.
+* **Complex Data Retrieval:** Advanced query design utilizing nested logic (subqueries), table joins (`INNER`, `LEFT`, `RIGHT`), set operations, and Common Table Expressions (CTEs).
+* **Database Design & Normalization:** Structuring schemas, enforcing entity integrity (Keys, Constraints, Triggers), and normalization principles.
+* **Database Programming & Virtualization:** Creating Views for simplification, aggregation, and security.
+* **Performance Optimization:** Accelerating queries using Indexes (including covering and partial indexes) and analyzing execution bottlenecks via `EXPLAIN QUERY PLAN`.
+* **Concurrency & Data Integrity:** Implementing Transactions and ensuring ACID compliance to prevent race conditions and data corruption.
+* **Scaling & Security:** Understanding horizontal/vertical scaling, sharding, replication, and mitigating SQL Injection vulnerabilities using Prepared Statements.
+
+---
+
+## 💻 Tech Stack & Tools
+* **DBMS:** SQLite, MySQL, PostgreSQL
+* **Concepts:** Database Normalization, Query Optimization, ACID Transactions, Database Security
 
 ---
 
@@ -41,7 +48,7 @@ Beyond writing queries, the goal is to develop strong **data modeling thinking**
 | **1** | Relating | ✅ Done | `packages.db`, `dese.db`, `moneyball.db` |
 | **2** | Designing | ✅ Done | `atl.db`, `connect.db`, `donuts.db` |
 | **3** | Writing | ✅ Done | `dont-panic.db`, `meteorites.db` |
-| **4** | Viewing | ⏳ Upcoming | TBD |
+| **4** | Viewing | ✅ Done | `census.db`, `private.db`, `bnb.db` |
 | **5** | Optimizing | ⏳ Upcoming | TBD |
 | **6** | Scaling | ⏳ Upcoming | TBD |
 
@@ -66,4 +73,4 @@ If you want to test any of the SQL exercises locally:
    ```
 
 ## 📌 Notes
-This repository is part of my continuous learning path towards Cloud & Data Engineering, strengthening my understanding of how data is structured and queried at scale.
+This repository is part of my continuous learning path towards **Cloud & Data Engineering**, strengthening my understanding of how data is structured and queried at scale.
