@@ -49,7 +49,7 @@ Beyond writing queries, the goal is to develop strong **data modeling thinking**
 | **2** | Designing | ✅ Done | `atl.db`, `connect.db`, `donuts.db` |
 | **3** | Writing | ✅ Done | `dont-panic.db`, `meteorites.db` |
 | **4** | Viewing | ✅ Done | `census.db`, `private.db`, `bnb.db` |
-| **5** | Optimizing | ⏳ Upcoming | TBD |
+| **5** | Optimizing | ✅ Done | `snap.db`, `harvard.db` |
 | **6** | Scaling | ⏳ Upcoming | TBD |
 
 ---
